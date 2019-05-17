@@ -1,0 +1,8 @@
+.d-none {
+    display: none;
+  }
+  
+span:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
